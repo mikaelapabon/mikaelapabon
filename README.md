@@ -2,7 +2,7 @@
 - I have a BS in Physics and recently left my teaching position.
 - I am currently looking for a Data Analyst position.
 - I am fimiliar with VPython, Python, LaTeX, R, SQL, Tableau, and Spreadsheets.
-- 
+  
 
 <!--
 **mikaelapabon/mikaelapabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
